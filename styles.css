@@ -1,0 +1,14 @@
+.topic {
+  padding: 5px;
+  margin: 5px;
+  font-size: 16px;
+  text-emphasis: bold;
+  
+}
+
+form, label, input {
+  margin: 5px;
+  padding: 5px;
+  font-size: 16px;
+  
+}
